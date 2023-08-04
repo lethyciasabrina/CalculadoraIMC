@@ -27,7 +27,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 - Melhorar estilização do app
 
 ## Author
-Lethycia Sabrina Leal Santos (follow me on [Linkedin](www.linkedin.com/in/lethyciasabrinaleal))
+Lethycia Sabrina Leal Santos (follow me on [Linkedin](https://www.linkedin.com/in/lethyciasabrinaleal/))
 
 ## License
 ```
